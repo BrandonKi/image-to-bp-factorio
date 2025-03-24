@@ -2,7 +2,7 @@
 
 This tool converts an image to a factorio floor blueprint meant to be viewed from the map.
 
-1. Run bp_ui.exe
+1. Run bp_ui.exe (Or either of the python files)
 2. Click "Open" and select an image of your choice, I recommend choosing relatively small images
 3. Click "Convert"
 4. Click "Copy To Clipbord"
