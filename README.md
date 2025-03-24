@@ -14,5 +14,7 @@ You can also just use the notebook if that's easier for you.
 
 ### Examples
 These are screenshots taken of the map in game.
+
 ![Alt text](examples/euro_truck.png?raw=true "Euro Truck Blueprint")
+
 ![Alt text](examples/lubricant.png?raw=true "Lubricant Blueprint")
